@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://familytravelfun.com/sitemap.xml
+Sitemap: https://mbcx07.github.io/blog-familytravelfun/sitemap.xml
